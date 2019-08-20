@@ -15,3 +15,4 @@ params = [{
 results = google_streetview.api.results(params)
 
 help(google_streetview.api.urlencode)print(results.metadata)
+print(results.metadata)
